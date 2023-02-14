@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329132251849",
+    "project_id": "agence-26448",
+    "storage_bucket": "agence-26448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329132251849:android:e7927c09a6bcc6263dcb18",
+        "android_client_info": {
+          "package_name": "com.aymen.location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329132251849-j44oksgobrduum5ebjurjtgujsgei9as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzXl48d8Tmlx49-Oiw0PNwnxSiDzWoMcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329132251849-j44oksgobrduum5ebjurjtgujsgei9as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
